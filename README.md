@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Google app Engine,Hadoop**
 
-- 💬 Ask me about **Java Core, Spring boot, J2EE,Hibernate**
+- 💬 Ask me about : **Java Core, Spring boot, J2EE,Hibernate**
 
-- 📫 How to reach me **kumar.tushar816@gmail.com**
+- 📫 Reach me : **kumar.tushar816@gmail.com**
 
-- ⚡ Fun fact **I am a great procrastinator**
+- ⚡ Fun fact : **I am a great procrastinator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
