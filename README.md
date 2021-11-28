@@ -7,7 +7,7 @@
 
 - 💬 Ask me about : **Java Core, Spring boot, J2EE,Hibernate**
 
-- 📫 Reach me : **kumar.tushar816@gmail.com**
+- 📫 Reach me : **kumar.tushar816@gmail.com** **https://www.linkedin.com/in/tushar-kumar-5a4308174/**
 
 - ⚡ Fun fact : **I am a great procrastinator**
 
