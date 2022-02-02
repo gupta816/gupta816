@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/puchi_puu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="puchi_puu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumar_tushar816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumar_tushar816" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/puchipuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="puchipuu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7189dh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7189dh" height="30" width="40" /></a>
+<a href="https://leetcode.com/puchi_puu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7189dh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kumar.tushar816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kumar.tushar816" height="30" width="40" /></a>
 </p>
 
