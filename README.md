@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta816&label=Profile%20views&color=0e75b6&style=flat" alt="gupta816" /> </p>
 
-- 🌱 I’m currently learning **Google app Engine,Hadoop**
+
 
 - 💬 Ask me about : **Java Core, Spring boot, J2EE,Hibernate**
 
