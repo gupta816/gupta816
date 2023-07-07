@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about : **Java Core, React, Node, Express, Angular, Javascript**
+- 💬 Ask me about : **Java Core, React, Node, Express, Angular, Javascript, AWS**
 
 - 📫 Reach me :  Mail: **kumar.tushar816@gmail.com**     iN: **https://www.linkedin.com/in/tushar-kumar-5a4308174/**
 
