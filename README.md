@@ -43,7 +43,7 @@ I love turning complex problems into intuitive, performant solutions — from bu
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushark816/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kumar-5a4308174/)
 [![Email](https://img.shields.io/badge/Email-kumar.tushar816@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumar.tushar816@gmail.com)
 
 ---
