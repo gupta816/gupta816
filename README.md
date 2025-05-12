@@ -37,7 +37,6 @@ I love turning complex problems into intuitive, performant solutions — from bu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tushar816&show_icons=true&theme=radical" alt="Tushar Kumar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar816&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
